@@ -60,6 +60,7 @@ namespace Advanced_C__03
             //}
             #endregion
             #region Q2
+            //Given a Stack, implement a function to check if a string of parentheses is balanced using a stack.
             //string inputString = "[()]{[]}";
             //Console.WriteLine(IsBalancedParentheses(inputString));
             #endregion
